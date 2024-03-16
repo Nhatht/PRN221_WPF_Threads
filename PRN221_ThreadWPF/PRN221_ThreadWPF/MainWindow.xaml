@@ -1,0 +1,26 @@
+﻿<Window x:Class="PRN221_ThreadWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PRN221_ThreadWPF"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="400" Width="700">
+    <Grid Background="LightGray">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="COUNTDOWN" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="DarkBlue" Margin="0,0,0,20"/>
+            <Label x:Name="lblCountdown" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="DarkBlue" Content="00:00:00"/>
+            <TextBox x:Name="txtTime" Width="200" Height="50" FontSize="30" TextAlignment="Center" Margin="0,10" BorderBrush="DarkBlue" BorderThickness="2"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="btnStart" Content="Start" Width="200" Height="50" FontSize="20" Click="btnStart_Click" Margin="10" Background="LightBlue" BorderBrush="DarkBlue" BorderThickness="2"/>
+                <Button x:Name="btnStop" Content="Stop" Width="200" Height="50" FontSize="20" Click="btnStop_Click" Margin="10" Background="LightBlue" BorderBrush="DarkBlue" BorderThickness="2"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="btnContinue" Content="Continue" Width="200" Height="50" FontSize="20" Click="btnContinue_Click" Margin="10" Background="LightBlue" BorderBrush="DarkBlue" BorderThickness="2"/>
+                <Button x:Name="btnReuse" Content="Reuse" Width="200" Height="50" FontSize="20" Click="btnReuse_Click" Margin="10" Background="LightBlue" BorderBrush="DarkBlue" BorderThickness="2"/>
+                <Button x:Name="btnReset" Content="Reset" Width="200" Height="50" FontSize="20" Click="btnReset_Click" Margin="10" Background="LightBlue" BorderBrush="DarkBlue" BorderThickness="2"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

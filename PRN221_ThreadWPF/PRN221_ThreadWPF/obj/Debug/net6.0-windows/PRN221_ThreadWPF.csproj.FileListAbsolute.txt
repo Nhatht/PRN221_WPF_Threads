@@ -1,0 +1,23 @@
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\bin\Debug\net6.0-windows\Images\Simply Cute Happy Birthday Instagram Post.jpg
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\bin\Debug\net6.0-windows\PRN221_ThreadWPF.exe
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\bin\Debug\net6.0-windows\PRN221_ThreadWPF.deps.json
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\bin\Debug\net6.0-windows\PRN221_ThreadWPF.runtimeconfig.json
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\bin\Debug\net6.0-windows\PRN221_ThreadWPF.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\bin\Debug\net6.0-windows\PRN221_ThreadWPF.pdb
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\HappyBirthday.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\App.g.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\PRN221_ThreadWPF_MarkupCompile.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\PRN221_ThreadWPF_MarkupCompile.lref
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\HappyBirthday.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\MainWindow.baml
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\PRN221_ThreadWPF.g.resources
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\PRN221_ThreadWPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\PRN221_ThreadWPF.AssemblyInfoInputs.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\PRN221_ThreadWPF.AssemblyInfo.cs
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\PRN221_ThreadWPF.csproj.CoreCompileInputs.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\PRN221_ThreadWPF.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\refint\PRN221_ThreadWPF.dll
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\PRN221_ThreadWPF.pdb
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\PRN221_ThreadWPF.genruntimeconfig.cache
+E:\University\FPTU\Semester_7-SP24\Data_PRN221\PRN221_ThreadWPF\PRN221_ThreadWPF\obj\Debug\net6.0-windows\ref\PRN221_ThreadWPF.dll

@@ -1,0 +1,44 @@
+﻿<Window x:Class="PRN221_ThreadWPF.HappyBirthday"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PRN221_ThreadWPF"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Happy Birthday!" Height="450" Width="800">
+    <Grid Background="LightBlue">
+        <TextBlock Text="Happy Birthday!" FontSize="50" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock.Foreground>
+                <SolidColorBrush x:Name="textColor" Color="White"/>
+            </TextBlock.Foreground>
+            <TextBlock.RenderTransform>
+                <RotateTransform x:Name="rotateTransform" />
+            </TextBlock.RenderTransform>
+            <TextBlock.Triggers>
+                <EventTrigger RoutedEvent="TextBlock.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                                         From="1.0" To="0.0" 
+                                         Duration="0:0:1"
+                                         AutoReverse="True" 
+                                         RepeatBehavior="Forever" />
+                            <DoubleAnimation Storyboard.TargetName="rotateTransform"
+                                         Storyboard.TargetProperty="Angle"
+                                         From="0" To="360" 
+                                         Duration="0:0:5"
+                                         RepeatBehavior="Forever" />
+                            <ColorAnimation Storyboard.TargetName="textColor"
+                                        Storyboard.TargetProperty="Color"
+                                        From="White" To="Red"
+                                        Duration="0:0:2"
+                                        AutoReverse="True"
+                                        RepeatBehavior="Forever" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </TextBlock.Triggers>
+        </TextBlock>
+    </Grid>
+</Window>
